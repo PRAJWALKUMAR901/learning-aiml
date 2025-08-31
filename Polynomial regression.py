@@ -33,3 +33,4 @@ print('The price for 7.5year old car is $',ss_y.inverse_transform(lr.predict(pol
 
 
 
+
